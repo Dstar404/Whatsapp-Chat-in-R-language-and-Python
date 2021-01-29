@@ -21,6 +21,8 @@ library(stopwords)
 library(rvest)
 library(ggplot2)
 library(urltools)
+#LIBRARY FOR SENTIMENTAL
+library(textdata)
 
 #ດຶງໄຟລຂໍ້ມູນທີ່ຈະນຳມາວິເຄາະ
 
